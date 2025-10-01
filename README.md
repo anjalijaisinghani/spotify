@@ -3,14 +3,20 @@
 ## Overview  
 The **Spotify Clone** is a web-based music player built using **HTML**, **CSS**, and **JavaScript**. It mimics the core functionalities of the Spotify interface, allowing users to play, pause, skip songs, and view the current progress of audio playback. What makes this project unique is the custom music content — lyrics were generated using **ChatGPT**, and the corresponding vocals were created using **Suno AI**. This project provides a sleek, responsive, and interactive user experience similar to modern music streaming platforms.
 
+## 🌐 Live Demo
+
+👉 [Click here to use the Spotify Clone](https://anjalijaisinghani.github.io/spotify/)
+
+> No setup needed — open the link and start listening to AI-generated music!
+
 ## Technologies Used  
 
-**Frontend:** 
+**Frontend:**  
 - **HTML** – Page structure  
 - **CSS** – Styling and responsive layout  
 - **JavaScript** – Player functionality and interactivity
 
-**Media Generation:**
+**Media Generation:**  
 - **ChatGPT** – Song lyrics generation  
 - **Suno AI** – Vocal and music generation
 
@@ -28,3 +34,7 @@ The **Spotify Clone** is a web-based music player built using **HTML**, **CSS**,
 ## 🧠 Purpose
 
 This project is part of my personal learning journey to practice web development using basic HTML, CSS, and JavaScript.
+
+---
+
+✅ **Created for learning purpose only by  YouTube tutorials**
