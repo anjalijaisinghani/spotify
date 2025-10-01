@@ -23,7 +23,8 @@ The **Spotify Clone** is a web-based music player built using **HTML**, **CSS**,
 - Dynamic progress bar with real-time tracking  
 - Responsive design for mobile and desktop  
 - Playlist of AI-generated songs  
-- Easy-to-understand and clean codebase for beginners  
+- Easy-to-understand and clean codebase for beginners
+  
+## 🧠 Purpose
 
-## License  
-This project is licensed under the **MIT License**.
+This project is part of my personal learning journey to practice web development using basic HTML, CSS, and JavaScript.
